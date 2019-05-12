@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554619551 source:f:\amal\semester_2\std\tpmod 8\main.cpp
+	"graph.cpp"
+
+1554619438 f:\amal\semester_2\std\tpmod 8\graph.cpp
+	"graph.h"
+
+1554601387 f:\amal\semester_2\std\tpmod 8\graph.h
+	<iostream>
+	<stdlib.h>
+
